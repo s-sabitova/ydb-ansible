@@ -6,7 +6,7 @@
 # Default value: false
 ydbops_local: true
 
-availability_mode: strong
+availability_mode: force
 
 ydb_enforce_user_token_requirement: true
 
