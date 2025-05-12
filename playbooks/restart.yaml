@@ -23,7 +23,7 @@
 
   roles:
   - role: ydbd_rolling_static
-    availability_mode: weak
+    availability_mode: force
     tags:
       - storage
       - static
